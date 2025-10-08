@@ -1,0 +1,13 @@
+[Unit]
+Description=My Python Script Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /root/fencingscript/fencingApparatus.py
+WorkingDirectory=/run/
+Restart=always
+User=root
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target

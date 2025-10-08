@@ -3,7 +3,7 @@
 import serial, time, threading, json
 from flask import Flask, jsonify
 
-SERIAL_PORT = 'COM3'
+SERIAL_PORT = '/dev/ttyS1'
 BAUD_RATE = 38400
 TIMEOUT = 1.0  # seconds between SOH and EOT
 
