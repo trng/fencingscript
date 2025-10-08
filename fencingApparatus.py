@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
-import serial, time, threading, json
+import serial, time, threading, json, logging
 from flask import Flask, jsonify
+from flask_cors import CORS
+
 
 SERIAL_PORT = '/dev/ttyS1'
 BAUD_RATE = 38400
@@ -142,15 +144,30 @@ def read_serial():
                 buffer.clear()
                 in_message = False
 
+# dummy test function
+def getTime():
+    while True:
+        latest_data["time"] = time.time()
+        time.sleep(1)
+
+
 # Start serial thread
 threading.Thread(target=read_serial, daemon=True).start()
+threading.Thread(target=getTime, daemon=True).start() # just for test
+
 
 # HTTP server
-app = Flask(__name__)
+appFlask = Flask(__name__)
+log = logging.getLogger('werkzeug')
+log.setLevel(logging.ERROR)  # Only show errors, not successful requests
 
-@app.route('/data.json')
+CORS(appFlask)  # Enables CORS for all routes
+
+
+@appFlask.route('/data.json')
 def serve_json():
     return jsonify(latest_data)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
+    appFlask.run(host='0.0.0.0', port=8080,debug=False)
+    print("main")
