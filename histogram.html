@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTTP Load Time Histogram</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      background: #f0f0f0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    canvas {
+      border: 1px solid #333;
+      margin-top: 20px;
+    }
+    h1 {
+      margin-top: 20px;
+    }
+    #legend {
+      margin-top: 10px;
+      font-size: 14px;
+      background: #fff;
+      padding: 10px;
+      border: 1px solid #ccc;
+      width: 600px;
+      box-sizing: border-box;
+      display: flex;
+      justify-content: space-between;
+    }
+    #legend h2 {
+      margin: 0 0 5px 0;
+      font-size: 16px;
+    }
+    #legend ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+    .legend-section {
+      width: 48%;
+    }
+  </style>
+</head>
+<body>
+  <h1>HTTP Load Time Histogram</h1>
+  <canvas id="histogram" width="600" height="300"></canvas>
+  <div id="legend">
+    <div class="legend-section">
+      <h2>Top 10 Load Times (ms)</h2>
+      <ul id="topCounts"></ul>
+    </div>
+    <div class="legend-section">
+      <h2>Worst 10 Load Times (ms)</h2>
+      <ul id="worstCounts"></ul>
+    </div>
+  </div>
+
+  <script>
+    const url = 'http://192.168.1.193:8080/data.json'; // Replace with your actual endpoint
+    const canvas = document.getElementById('histogram');
+    const ctx = canvas.getContext('2d');
+    const topList = document.getElementById('topCounts');
+    const worstList = document.getElementById('worstCounts');
+    const times = [];
+    const maxTimeMs = canvas.width; // 1px per bin
+
+    function fetchAndMeasure() {
+      const start = performance.now();
+      fetch(url)
+        .then(response => response.text())
+        .then(() => {
+          const durationMs = Math.floor((performance.now() - start) * 10);
+          times.push(durationMs);
+          drawHistogram();
+          updateLegend();
+        })
+        .catch(err => console.error('Fetch error:', err));
+    }
+
+    function drawHistogram() {
+      const bins = new Array(maxTimeMs).fill(0);
+      for (const t of times) {
+        if (t < maxTimeMs) bins[t]++;
+      }
+
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      const maxCount = Math.max(...bins);
+
+      // Y-axis labels and grid
+      ctx.fillStyle = 'black';
+      ctx.font = '10px sans-serif';
+      ctx.textAlign = 'right';
+      ctx.textBaseline = 'middle';
+      const numTicks = 5;
+      for (let i = 0; i <= numTicks; i++) {
+        const value = Math.round((i / numTicks) * maxCount);
+        const y = canvas.height - (i / numTicks) * canvas.height;
+        ctx.fillText(`${value}`, 30, y);
+        ctx.beginPath();
+        ctx.moveTo(35, y);
+        ctx.lineTo(canvas.width, y);
+        ctx.strokeStyle = '#ccc';
+        ctx.stroke();
+      }
+
+      // Histogram bars
+      for (let i = 0; i < bins.length; i++) {
+        const barHeight = (bins[i] / maxCount) * canvas.height;
+        ctx.fillStyle = 'steelblue';
+        ctx.fillRect(i, canvas.height - barHeight, 1, barHeight);
+
+        // X-axis labels every 50 ms
+        if (i % 50 === 0) {
+          ctx.fillStyle = 'black';
+          ctx.font = '9px sans-serif';
+          ctx.textAlign = 'center';
+          ctx.textBaseline = 'top';
+          ctx.fillText(`${i}`, i, canvas.height - 15);
+        }
+      }
+    }
+
+    function updateLegend() {
+      const bins = {};
+      for (const t of times) {
+        bins[t] = (bins[t] || 0) + 1;
+      }
+
+      const entries = Object.entries(bins);
+
+      const top = entries
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 10);
+
+      const worst = entries
+        .sort((a, b) => b[0] - a[0]) // sort by time value
+        .reverse() // show highest first
+        .slice(-10);
+        
+
+      topList.innerHTML = '';
+      for (const [time, count] of top) {
+        const li = document.createElement('li');
+        li.textContent = `${time} ms → ${count} samples`;
+        topList.appendChild(li);
+      }
+
+      worstList.innerHTML = '';
+      for (const [time, count] of worst) {
+        const li = document.createElement('li');
+        li.textContent = `${time} ms → ${count} samples`;
+        worstList.appendChild(li);
+      }
+    }
+
+    setInterval(fetchAndMeasure, 100);
+  </script>
+</body>
+</html>
