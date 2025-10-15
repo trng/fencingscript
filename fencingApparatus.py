@@ -49,14 +49,18 @@ def parse_message(msg_bytes):
     print()
     print()
     try:
-        if msg_bytes[1] == 0x14 and len(msg_bytes) == 11 and chr(msg_bytes[2]) == "R" and msg_bytes[4] == "G" and msg_bytes[6] == "W" and msg_bytes[8] == "w":
+        if msg_bytes[1] == 0x14 and len(msg_bytes) == 11 and chr(msg_bytes[2]) == "R" and chr(msg_bytes[4]) == "G" and chr(msg_bytes[6]) == "W" and chr(msg_bytes[8]) == "w":
                                   # Message 1:  DC4 - always first message in sequence
                                   #   0    1  2 3 4 5 6 7 8 9   
                                   # [SOH][DC4]R«x»G«x»W«x»w«x»[EOT]
             m1_lights_raw_str = msg_bytes[2:10]
-            latest_data["m1_lights"] = '>>>' + m1_lights_raw_str.decode('utf-8')  + '<<<'
+            # latest_data["m1_lights"] = m1_lights_raw_str.decode('utf-8')
+            latest_data["m1_lights_red"] = chr(m1_lights_raw_str[1])
+            latest_data["m1_lights_green"] = chr(m1_lights_raw_str[3])
+            latest_data["m1_lights_white_right"] = chr(m1_lights_raw_str[5])
+            latest_data["m1_lights_white_left"] = chr(m1_lights_raw_str[7])
             latest_data["m1_msg_counter"] = latest_data["m1_msg_counter"] + 1
-            
+
         elif msg_bytes[1] == 0x13:  # DC3
             if len(msg_bytes) == 13 and chr(msg_bytes[2]) in "RNJB" and msg_bytes[3] == 0x2 and chr(msg_bytes[6]) == ":" and chr(msg_bytes[9]) in " ." :
                                     # Message 2:  Match Time Info & Status
@@ -66,47 +70,60 @@ def parse_message(msg_bytes):
                 m2_timer_raw_str = msg_bytes[4:12]
                 latest_data["m2_timer_status"] = chr(msg_bytes[2])
                 latest_data["m2_timer_mmssdc"] = '>>>' + m2_timer_raw_str.decode('utf-8')  + '<<<'
+                latest_data["m2_timer_mmssdc_raw_str"] = m2_timer_raw_str.decode('utf-8')
+                latest_data["m2_timer_mm"] = m2_timer_raw_str[0:2].decode('utf-8')
+                latest_data["m2_timer_ss"] = m2_timer_raw_str[3:5].decode('utf-8')
+                latest_data["m2_timer_dc"] = m2_timer_raw_str[6:8].decode('utf-8')
                 latest_data["m2_msg_counter"] = latest_data["m2_msg_counter"] + 1
-                
+
             elif len(msg_bytes) == 29 and msg_bytes[2] == 0x44 and msg_bytes[3] == 0x2 and chr(msg_bytes[6]) == ":" and msg_bytes[9] == 0x2 and msg_bytes[15] == 0x2 and msg_bytes[21] == 0x2  and msg_bytes[23] == 0x2  and msg_bytes[25] == 0x2 :
                                     # Message 3: Competitors Data
                                     #   0    1  2  3  45678  9  abc   15 16 --20 21 22 23 24 25
                                     # [SOH][DC3]D[STX]XX:YY[STX]AABBb[STX]CCDDd[STX]P[STX]R[STX]vW[EOT]
                 m3_score_raw_str = msg_bytes[4:9]
-                latest_data["m3_score"] = '>>>' + m3_score_raw_str.decode('utf-8')  + '<<<'
-                                
+                latest_data["m3_score"] = m3_score_raw_str.decode('utf-8')
+                latest_data["m3_score_right"] = m3_score_raw_str[0:2].decode('utf-8')
+                latest_data["m3_score_left"] = m3_score_raw_str[3:5].decode('utf-8')
+
                 m3_YRB_right_raw_str = msg_bytes[10:15]
                 m3_YRB_left_raw_str  = msg_bytes[16:21]
-                latest_data["m3_YRB_right"] = '>>>' + m3_YRB_right_raw_str.decode('utf-8')  + '<<<'
-                latest_data["m3_YRB_left"]  = '>>>' + m3_YRB_left_raw_str.decode('utf-8')  + '<<<'
-                
+                latest_data["m3_YRB_right"] = m3_YRB_right_raw_str.decode('utf-8')
+                latest_data["m3_YRB_left"]  = m3_YRB_left_raw_str.decode('utf-8')
+                latest_data["m3_yellow_card_right"]  = m3_YRB_right_raw_str[0:2].decode('utf-8')
+                latest_data["m3_red_card_right"]  = m3_YRB_right_raw_str[2:4].decode('utf-8')
+                latest_data["m3_black_card_right"]  = chr(m3_YRB_right_raw_str[4])
+                latest_data["m3_yellow_card_left"]  = m3_YRB_left_raw_str[0:2].decode('utf-8')
+                latest_data["m3_red_card_left"]  = m3_YRB_left_raw_str[2:4].decode('utf-8')
+                latest_data["m3_black_card_left"]  = chr(m3_YRB_left_raw_str[4])
                 m3_priority = chr(msg_bytes[22])
                 m3_period = chr(msg_bytes[24]) # if period == 0 then tablo OFF
                 latest_data["m3_priority"] = m3_priority
                 latest_data["m3_period"] = m3_period
-                
+
                 m3_video_requests = msg_bytes[26:28]
-                latest_data["m3_video_requests"] = '>>>' + m3_video_requests.decode('utf-8')  + '<<<'
+                latest_data["m3_video_requests"] = "  " # m3_video_requests.decode('utf-8')
                 latest_data["m3_msg_counter"] = latest_data["m3_msg_counter"] + 1
-                
+
             elif len(msg_bytes) == 12 and msg_bytes[2] == 0x49 and msg_bytes[3] == 0x2 and msg_bytes[5] == 0x2 and msg_bytes[7] == 0x2 and msg_bytes[9] == 0x2 :
                                      # Message 4: Status Info from Fencing Piste Apparatus
                                      #   0    1  2  3  4  5  6  7  8  9  a  b  c  d  
                                      # [SOH][DC3]I[STX]M[STX]W[STX]S[STX]N[STX]?[EOT]  # ????? [STX]VW
                 m4_raw_str =  chr(msg_bytes[4]) + chr(msg_bytes[6]) +chr(msg_bytes[8]) +chr(msg_bytes[10])
                 latest_data["m4_raw_str"] = m4_raw_str
-            
+
             else:
                 for i in range(len(msg_bytes)):
                     if msg_bytes[i] < 32:
-                        msg_bytes[i] = ord('_') 
+                        msg_bytes[i] = ord('_')
                 print()
                 print("unknown message format (" + str(len(msg_bytes)) + " bytes length):" )
                 print(msg_bytes.decode('ascii'))
                 print()
+                with open("data_log.txt", "a") as f:
+                    f.write(msg_bytes.decode('ascii') + "\n\n\n")  # Add newline for readability
 
 
-            
+
     except Exception as e:
         print(f"Parse error: {e}")
 
@@ -130,14 +147,14 @@ def read_serial():
             buffer.append(b)
             if b == 0x04:  # EOT
                 parse_message(buffer)
-                print(' ')
-                print(' ')
-                print(' ')
-                #print(json.dumps(latest_data, indent=4))
-                s = pretty_print_aligned(latest_data)
-                print(s)
-                with open("data_log.txt", "a") as f:
-                    f.write(s + "\n\n\n")  # Add newline for readability
+                # print(' ')
+                # print(' ')
+                # print(' ')
+                # print(json.dumps(latest_data, indent=4))
+                # s = pretty_print_aligned(latest_data)
+                # print(s)
+                # with open("data_log.txt", "a") as f:
+                #    f.write(s + "\n\n\n")  # Add newline for readability
 
                 in_message = False
             elif time.time() - start_time > TIMEOUT:

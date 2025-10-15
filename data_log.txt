@@ -1,0 +1,236 @@
+{
+  m1_msg_counter        : 1
+  m2_msg_counter        : 0
+  m3_msg_counter        : 0
+  time                  : 1760546873.2027757
+  m1_lights             : ">>>R0G0W0w0<<<"
+  m1_lights_red         : "0"
+  m1_lights_green       : "0"
+  m1_lights_white_right : "0"
+  m1_lights_white_left  : "0"
+}
+
+
+
+{
+  m1_msg_counter        : 1
+  m2_msg_counter        : 1
+  m3_msg_counter        : 0
+  time                  : 1760546873.2027757
+  m1_lights             : ">>>R0G0W0w0<<<"
+  m1_lights_red         : "0"
+  m1_lights_green       : "0"
+  m1_lights_white_right : "0"
+  m1_lights_white_left  : "0"
+  m2_timer_status       : "R"
+  m2_timer_mmssdc       : ">>> 2:30   <<<"
+  m2_timer_mm           : " 2"
+  m2_timer_ss           : "30"
+  m2_timer_dc           : "  "
+}
+
+
+
+{
+  m1_msg_counter        : 1
+  m2_msg_counter        : 1
+  m3_msg_counter        : 1
+  time                  : 1760546873.2027757
+  m1_lights             : ">>>R0G0W0w0<<<"
+  m1_lights_red         : "0"
+  m1_lights_green       : "0"
+  m1_lights_white_right : "0"
+  m1_lights_white_left  : "0"
+  m2_timer_status       : "R"
+  m2_timer_mmssdc       : ">>> 2:30   <<<"
+  m2_timer_mm           : " 2"
+  m2_timer_ss           : "30"
+  m2_timer_dc           : "  "
+  m3_score              : ">>> 3: 1<<<"
+  m3_score_right        : " 3"
+  m3_score_left         : " 1"
+  m3_YRB_right          : " 0 00"
+  m3_YRB_left           : " 0 00"
+  m3_yellow_card_right  : " 0"
+  m3_yellow_card_left   : " 0"
+  m3_priority           : "0"
+  m3_period             : "1"
+  m3_video_requests     : ">>>  <<<"
+}
+
+
+
+{
+  m1_msg_counter        : 2
+  m2_msg_counter        : 1
+  m3_msg_counter        : 1
+  time                  : 1760546874.2040615
+  m1_lights             : ">>>R0G0W0w0<<<"
+  m1_lights_red         : "0"
+  m1_lights_green       : "0"
+  m1_lights_white_right : "0"
+  m1_lights_white_left  : "0"
+  m2_timer_status       : "R"
+  m2_timer_mmssdc       : ">>> 2:30   <<<"
+  m2_timer_mm           : " 2"
+  m2_timer_ss           : "30"
+  m2_timer_dc           : "  "
+  m3_score              : ">>> 3: 1<<<"
+  m3_score_right        : " 3"
+  m3_score_left         : " 1"
+  m3_YRB_right          : " 0 00"
+  m3_YRB_left           : " 0 00"
+  m3_yellow_card_right  : " 0"
+  m3_yellow_card_left   : " 0"
+  m3_priority           : "0"
+  m3_period             : "1"
+  m3_video_requests     : ">>>  <<<"
+}
+
+
+
+{
+  m1_msg_counter        : 2
+  m2_msg_counter        : 2
+  m3_msg_counter        : 1
+  time                  : 1760546874.2040615
+  m1_lights             : ">>>R0G0W0w0<<<"
+  m1_lights_red         : "0"
+  m1_lights_green       : "0"
+  m1_lights_white_right : "0"
+  m1_lights_white_left  : "0"
+  m2_timer_status       : "R"
+  m2_timer_mmssdc       : ">>> 2:29   <<<"
+  m2_timer_mm           : " 2"
+  m2_timer_ss           : "29"
+  m2_timer_dc           : "  "
+  m3_score              : ">>> 3: 1<<<"
+  m3_score_right        : " 3"
+  m3_score_left         : " 1"
+  m3_YRB_right          : " 0 00"
+  m3_YRB_left           : " 0 00"
+  m3_yellow_card_right  : " 0"
+  m3_yellow_card_left   : " 0"
+  m3_priority           : "0"
+  m3_period             : "1"
+  m3_video_requests     : ">>>  <<<"
+}
+
+
+
+{
+  m1_msg_counter        : 2
+  m2_msg_counter        : 2
+  m3_msg_counter        : 2
+  time                  : 1760546874.2040615
+  m1_lights             : ">>>R0G0W0w0<<<"
+  m1_lights_red         : "0"
+  m1_lights_green       : "0"
+  m1_lights_white_right : "0"
+  m1_lights_white_left  : "0"
+  m2_timer_status       : "R"
+  m2_timer_mmssdc       : ">>> 2:29   <<<"
+  m2_timer_mm           : " 2"
+  m2_timer_ss           : "29"
+  m2_timer_dc           : "  "
+  m3_score              : ">>> 3: 1<<<"
+  m3_score_right        : " 3"
+  m3_score_left         : " 1"
+  m3_YRB_right          : " 0 00"
+  m3_YRB_left           : " 0 00"
+  m3_yellow_card_right  : " 0"
+  m3_yellow_card_left   : " 0"
+  m3_priority           : "0"
+  m3_period             : "1"
+  m3_video_requests     : ">>>  <<<"
+}
+
+
+
+{
+  m1_msg_counter        : 3
+  m2_msg_counter        : 2
+  m3_msg_counter        : 2
+  time                  : 1760546875.205348
+  m1_lights             : ">>>R0G0W0w0<<<"
+  m1_lights_red         : "0"
+  m1_lights_green       : "0"
+  m1_lights_white_right : "0"
+  m1_lights_white_left  : "0"
+  m2_timer_status       : "R"
+  m2_timer_mmssdc       : ">>> 2:29   <<<"
+  m2_timer_mm           : " 2"
+  m2_timer_ss           : "29"
+  m2_timer_dc           : "  "
+  m3_score              : ">>> 3: 1<<<"
+  m3_score_right        : " 3"
+  m3_score_left         : " 1"
+  m3_YRB_right          : " 0 00"
+  m3_YRB_left           : " 0 00"
+  m3_yellow_card_right  : " 0"
+  m3_yellow_card_left   : " 0"
+  m3_priority           : "0"
+  m3_period             : "1"
+  m3_video_requests     : ">>>  <<<"
+}
+
+
+
+{
+  m1_msg_counter        : 3
+  m2_msg_counter        : 3
+  m3_msg_counter        : 2
+  time                  : 1760546875.205348
+  m1_lights             : ">>>R0G0W0w0<<<"
+  m1_lights_red         : "0"
+  m1_lights_green       : "0"
+  m1_lights_white_right : "0"
+  m1_lights_white_left  : "0"
+  m2_timer_status       : "R"
+  m2_timer_mmssdc       : ">>> 2:28   <<<"
+  m2_timer_mm           : " 2"
+  m2_timer_ss           : "28"
+  m2_timer_dc           : "  "
+  m3_score              : ">>> 3: 1<<<"
+  m3_score_right        : " 3"
+  m3_score_left         : " 1"
+  m3_YRB_right          : " 0 00"
+  m3_YRB_left           : " 0 00"
+  m3_yellow_card_right  : " 0"
+  m3_yellow_card_left   : " 0"
+  m3_priority           : "0"
+  m3_period             : "1"
+  m3_video_requests     : ">>>  <<<"
+}
+
+
+
+{
+  m1_msg_counter        : 3
+  m2_msg_counter        : 3
+  m3_msg_counter        : 3
+  time                  : 1760546875.205348
+  m1_lights             : ">>>R0G0W0w0<<<"
+  m1_lights_red         : "0"
+  m1_lights_green       : "0"
+  m1_lights_white_right : "0"
+  m1_lights_white_left  : "0"
+  m2_timer_status       : "R"
+  m2_timer_mmssdc       : ">>> 2:28   <<<"
+  m2_timer_mm           : " 2"
+  m2_timer_ss           : "28"
+  m2_timer_dc           : "  "
+  m3_score              : ">>> 3: 1<<<"
+  m3_score_right        : " 3"
+  m3_score_left         : " 1"
+  m3_YRB_right          : " 0 00"
+  m3_YRB_left           : " 0 00"
+  m3_yellow_card_right  : " 0"
+  m3_yellow_card_left   : " 0"
+  m3_priority           : "0"
+  m3_period             : "1"
+  m3_video_requests     : ">>>  <<<"
+}
+
+
+
