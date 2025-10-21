@@ -1,1 +1,3 @@
 # fencingscript
+
+(see repo vars)
