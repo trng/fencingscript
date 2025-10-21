@@ -1,0 +1,161 @@
+﻿жов 20 17:40:00 pi-LattePanda-Sigma python3[859]: __NL_2_BABENKO__
+жов 20 17:40:01 pi-LattePanda-Sigma python3[859]: unknown message format (17 bytes length):
+жов 20 17:40:01 pi-LattePanda-Sigma python3[859]: __NR_7_GONTSOVA__
+жов 20 17:40:01 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:40:01 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:40:13 pi-LattePanda-Sigma python3[859]: unknown message format (16 bytes length):
+жов 20 17:40:13 pi-LattePanda-Sigma python3[859]: __NL_2_BABENKO__
+жов 20 17:40:13 pi-LattePanda-Sigma python3[859]: unknown message format (17 bytes length):
+жов 20 17:40:13 pi-LattePanda-Sigma python3[859]: __NR_7_GONTSOVA__
+жов 20 17:40:13 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:40:13 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:40:16 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:40:16 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:40:16 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:40:16 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:40:16 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:40:16 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:40:29 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:40:29 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:40:29 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:40:29 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:40:29 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:40:29 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:40:41 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:40:41 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:40:41 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:40:41 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:40:41 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:40:41 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:40:54 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:40:54 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:40:54 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:40:54 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:40:54 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:40:54 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:41:06 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:41:06 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:41:06 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:41:06 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:41:06 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:41:06 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:41:19 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:41:19 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:41:19 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:41:19 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:41:19 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:41:19 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:41:31 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:41:31 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:41:31 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:41:31 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:41:31 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:41:31 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:41:43 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:41:43 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:41:43 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:41:43 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:41:43 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:41:43 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:41:56 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:41:56 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:41:56 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:41:56 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:41:56 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:41:56 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:42:08 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:42:08 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:42:08 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:42:08 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:42:08 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:42:08 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:42:20 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:42:20 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:42:20 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:42:20 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:42:20 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:42:20 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:42:33 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:42:33 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:42:33 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:42:33 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:42:33 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:42:33 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:42:45 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:42:45 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:42:45 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:42:45 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:42:45 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:42:45 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:42:58 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:42:58 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:42:58 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:42:58 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:42:58 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:42:58 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:43:10 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:43:10 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:43:10 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:43:10 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:43:10 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:43:10 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:43:23 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:43:23 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:43:23 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:43:23 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:43:23 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:43:23 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:43:36 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:43:36 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:43:36 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:43:36 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:43:36 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:43:36 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:43:49 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:43:49 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:43:49 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:43:49 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:43:49 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:43:49 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:44:01 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:44:01 pi-LattePanda-Sigma python3[859]: __NL_18_KOROTCHENK__
+жов 20 17:44:01 pi-LattePanda-Sigma python3[859]: unknown message format (20 bytes length):
+жов 20 17:44:01 pi-LattePanda-Sigma python3[859]: Parse error: 'ascii' codec can't decode byte 0xb2 in position 11: ordinal not in range(128)
+жов 20 17:44:01 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:44:01 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:44:13 pi-LattePanda-Sigma python3[859]: unknown message format (16 bytes length):
+жов 20 17:44:13 pi-LattePanda-Sigma python3[859]: __NL_2_BABENKO__
+жов 20 17:44:13 pi-LattePanda-Sigma python3[859]: unknown message format (18 bytes length):
+жов 20 17:44:13 pi-LattePanda-Sigma python3[859]: __NR_30_TSIMBOTA__
+жов 20 17:44:13 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:44:13 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:44:26 pi-LattePanda-Sigma python3[859]: unknown message format (16 bytes length):
+жов 20 17:44:26 pi-LattePanda-Sigma python3[859]: __NL_2_BABENKO__
+жов 20 17:44:26 pi-LattePanda-Sigma python3[859]: unknown message format (18 bytes length):
+жов 20 17:44:26 pi-LattePanda-Sigma python3[859]: __NR_30_TSIMBOTA__
+жов 20 17:44:26 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:44:26 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:44:39 pi-LattePanda-Sigma python3[859]: unknown message format (16 bytes length):
+жов 20 17:44:39 pi-LattePanda-Sigma python3[859]: __NL_2_BABENKO__
+жов 20 17:44:39 pi-LattePanda-Sigma python3[859]: unknown message format (18 bytes length):
+жов 20 17:44:39 pi-LattePanda-Sigma python3[859]: __NR_30_TSIMBOTA__
+жов 20 17:44:39 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:44:39 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:44:52 pi-LattePanda-Sigma python3[859]: unknown message format (16 bytes length):
+жов 20 17:44:52 pi-LattePanda-Sigma python3[859]: __NL_2_BABENKO__
+жов 20 17:44:52 pi-LattePanda-Sigma python3[859]: unknown message format (18 bytes length):
+жов 20 17:44:52 pi-LattePanda-Sigma python3[859]: __NR_30_TSIMBOTA__
+жов 20 17:44:52 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:44:52 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:45:04 pi-LattePanda-Sigma python3[859]: unknown message format (16 bytes length):
+жов 20 17:45:04 pi-LattePanda-Sigma python3[859]: __NL_2_BABENKO__
+жов 20 17:45:04 pi-LattePanda-Sigma python3[859]: unknown message format (18 bytes length):
+жов 20 17:45:04 pi-LattePanda-Sigma python3[859]: __NR_30_TSIMBOTA__
+жов 20 17:45:04 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:45:04 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
+жов 20 17:45:16 pi-LattePanda-Sigma python3[859]: unknown message format (16 bytes length):
+жов 20 17:45:16 pi-LattePanda-Sigma python3[859]: __NL_2_BABENKO__
+жов 20 17:45:16 pi-LattePanda-Sigma python3[859]: unknown message format (18 bytes length):
+жов 20 17:45:16 pi-LattePanda-Sigma python3[859]: __NR_30_TSIMBOTA__
+жов 20 17:45:16 pi-LattePanda-Sigma python3[859]: unknown message format (27 bytes length):
+жов 20 17:45:16 pi-LattePanda-Sigma python3[859]: __MC_5146k12_Podium_a2_  1_
