@@ -1,0 +1,2073 @@
+{
+  m1_msg_counter        : 1
+  m2_msg_counter        : 0
+  m3_msg_counter        : 0
+  m1_lights_red         : "0"
+  m1_lights_green       : "0"
+  m1_lights_white_right : "0"
+  m1_lights_white_left  : "0"
+}
+
+
+
+{
+  m1_msg_counter          : 1
+  m2_msg_counter          : 1
+  m3_msg_counter          : 0
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+}
+
+
+
+{
+  m1_msg_counter          : 1
+  m2_msg_counter          : 1
+  m3_msg_counter          : 1
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 2
+  m2_msg_counter          : 1
+  m3_msg_counter          : 1
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 2
+  m2_msg_counter          : 2
+  m3_msg_counter          : 1
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 2
+  m2_msg_counter          : 2
+  m3_msg_counter          : 2
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 3
+  m2_msg_counter          : 2
+  m3_msg_counter          : 2
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 3
+  m2_msg_counter          : 3
+  m3_msg_counter          : 2
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 3
+  m2_msg_counter          : 3
+  m3_msg_counter          : 3
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 3
+  m2_msg_counter          : 3
+  m3_msg_counter          : 3
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 3
+  m2_msg_counter          : 3
+  m3_msg_counter          : 3
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 3
+  m2_msg_counter          : 3
+  m3_msg_counter          : 3
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 4
+  m2_msg_counter          : 3
+  m3_msg_counter          : 3
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 4
+  m2_msg_counter          : 4
+  m3_msg_counter          : 3
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 4
+  m2_msg_counter          : 4
+  m3_msg_counter          : 4
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 5
+  m2_msg_counter          : 4
+  m3_msg_counter          : 4
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 5
+  m2_msg_counter          : 5
+  m3_msg_counter          : 4
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "1"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 5
+  m2_msg_counter          : 5
+  m3_msg_counter          : 5
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "2"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 6
+  m2_msg_counter          : 5
+  m3_msg_counter          : 5
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "2"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 6
+  m2_msg_counter          : 6
+  m3_msg_counter          : 5
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "2"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 6
+  m2_msg_counter          : 6
+  m3_msg_counter          : 6
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "3"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 7
+  m2_msg_counter          : 6
+  m3_msg_counter          : 6
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "3"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 7
+  m2_msg_counter          : 7
+  m3_msg_counter          : 6
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "3"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 7
+  m2_msg_counter          : 7
+  m3_msg_counter          : 7
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "4"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 8
+  m2_msg_counter          : 7
+  m3_msg_counter          : 7
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "4"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 8
+  m2_msg_counter          : 8
+  m3_msg_counter          : 7
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "4"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 8
+  m2_msg_counter          : 8
+  m3_msg_counter          : 8
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "5"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 9
+  m2_msg_counter          : 8
+  m3_msg_counter          : 8
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "5"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 9
+  m2_msg_counter          : 9
+  m3_msg_counter          : 8
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "5"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 9
+  m2_msg_counter          : 9
+  m3_msg_counter          : 9
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "6"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 10
+  m2_msg_counter          : 9
+  m3_msg_counter          : 9
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "6"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 10
+  m2_msg_counter          : 10
+  m3_msg_counter          : 9
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "6"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 10
+  m2_msg_counter          : 10
+  m3_msg_counter          : 10
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "7"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 11
+  m2_msg_counter          : 10
+  m3_msg_counter          : 10
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "7"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 11
+  m2_msg_counter          : 11
+  m3_msg_counter          : 10
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "7"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 11
+  m2_msg_counter          : 11
+  m3_msg_counter          : 11
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "8"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 12
+  m2_msg_counter          : 11
+  m3_msg_counter          : 11
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "8"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 12
+  m2_msg_counter          : 12
+  m3_msg_counter          : 11
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "8"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 12
+  m2_msg_counter          : 12
+  m3_msg_counter          : 12
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "9"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 13
+  m2_msg_counter          : 12
+  m3_msg_counter          : 12
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "9"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 13
+  m2_msg_counter          : 13
+  m3_msg_counter          : 12
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "9"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 13
+  m2_msg_counter          : 13
+  m3_msg_counter          : 13
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 14
+  m2_msg_counter          : 13
+  m3_msg_counter          : 13
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 14
+  m2_msg_counter          : 14
+  m3_msg_counter          : 13
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 14
+  m2_msg_counter          : 14
+  m3_msg_counter          : 14
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 15
+  m2_msg_counter          : 14
+  m3_msg_counter          : 14
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 15
+  m2_msg_counter          : 15
+  m3_msg_counter          : 14
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 15
+  m2_msg_counter          : 15
+  m3_msg_counter          : 15
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 16
+  m2_msg_counter          : 15
+  m3_msg_counter          : 15
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 16
+  m2_msg_counter          : 16
+  m3_msg_counter          : 15
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 16
+  m2_msg_counter          : 16
+  m3_msg_counter          : 16
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 16
+  m2_msg_counter          : 16
+  m3_msg_counter          : 16
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 16
+  m2_msg_counter          : 16
+  m3_msg_counter          : 16
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 16
+  m2_msg_counter          : 16
+  m3_msg_counter          : 16
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 17
+  m2_msg_counter          : 16
+  m3_msg_counter          : 16
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 17
+  m2_msg_counter          : 17
+  m3_msg_counter          : 16
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 17
+  m2_msg_counter          : 17
+  m3_msg_counter          : 17
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 18
+  m2_msg_counter          : 17
+  m3_msg_counter          : 17
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 18
+  m2_msg_counter          : 18
+  m3_msg_counter          : 17
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 18
+  m2_msg_counter          : 18
+  m3_msg_counter          : 18
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 19
+  m2_msg_counter          : 18
+  m3_msg_counter          : 18
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 19
+  m2_msg_counter          : 19
+  m3_msg_counter          : 18
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 19
+  m2_msg_counter          : 19
+  m3_msg_counter          : 19
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 20
+  m2_msg_counter          : 19
+  m3_msg_counter          : 19
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 20
+  m2_msg_counter          : 20
+  m3_msg_counter          : 19
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 20
+  m2_msg_counter          : 20
+  m3_msg_counter          : 20
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 21
+  m2_msg_counter          : 20
+  m3_msg_counter          : 20
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 21
+  m2_msg_counter          : 21
+  m3_msg_counter          : 20
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 21
+  m2_msg_counter          : 21
+  m3_msg_counter          : 21
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 22
+  m2_msg_counter          : 21
+  m3_msg_counter          : 21
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 22
+  m2_msg_counter          : 22
+  m3_msg_counter          : 21
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 22
+  m2_msg_counter          : 22
+  m3_msg_counter          : 22
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 23
+  m2_msg_counter          : 22
+  m3_msg_counter          : 22
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 23
+  m2_msg_counter          : 23
+  m3_msg_counter          : 22
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
+{
+  m1_msg_counter          : 23
+  m2_msg_counter          : 23
+  m3_msg_counter          : 23
+  m1_lights_red           : "0"
+  m1_lights_green         : "0"
+  m1_lights_white_right   : "0"
+  m1_lights_white_left    : "0"
+  m2_timer_status         : "N"
+  m2_timer_mmssdc_raw_str : " 0:00.00"
+  m2_timer_mm             : " 0"
+  m2_timer_ss             : "00"
+  m2_timer_dc             : "00"
+  m3_score_right          : "11"
+  m3_score_left           : "19"
+  m3_yellow_card_right    : " 1"
+  m3_red_card_right       : " 5"
+  m3_black_card_right     : "0"
+  m3_yellow_card_left     : " 1"
+  m3_red_card_left        : " 4"
+  m3_black_card_left      : "0"
+  m3_priority             : "0"
+  m3_period               : "X"
+  m3_video_requests       : "  "
+}
+
+
+
